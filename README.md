@@ -1,4 +1,3 @@
-# MovieNight-
 <!DOCTYPE html>
 <html lang="en">
     <style>
@@ -36,16 +35,16 @@
     <button>Time</button>
         <!-- <ul3 class="details">-->
 
-        </ul>
+    
             <li>8PM</li>
-         </ul3>
+        
     </p>
     <!--<p class='details-button'>Film</p>-->
     <button>Film</button>
-    <ul4 class="details">
+    <!--<ul class="details">-->
         <li>West Stide Story</li>
         <li>Starring Natlie Wood and George Chakiris</li>
-    </ul4>
+    <!--</ul>-->
     </p>
         
 <a href="https://en.wikipedia.org/wiki/Popcorn" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVekC-DBk6r5YUrcKvNEj4iTN0vDeo6fruEzSCyqF3bYZVHlyfVg" alt="popcorn"></a>
