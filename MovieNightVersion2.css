@@ -1,0 +1,65 @@
+body {
+    font-family: Helvetica;
+    padding: 2em;
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  .skillset {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .skill-html {
+    background-color: rgb(88, 192, 252);
+  }
+  
+  .skill-js {
+    background-color: rgb(60, 156, 211);
+  }
+  
+  .skill-jquery {
+    background-color: rgb(40, 127, 177);
+  }
+
+  .skill-Film {
+    background-color: rgb(24, 101, 146);
+}
+   
+  
+  .skill-html,
+  .skill-js,
+  .skill-jquery,
+  .skill-Film {
+    width: 100%;
+    padding: 1em 3em 2em 2em;
+    margin: 0.5em;
+    color: whitesmoke;
+  }
+  
+  .projects-button {
+    padding: 0.75em 1.25em;
+    background-color: whitesmoke;
+    opacity: 0.9;
+    width: 10em;
+    color: black;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .projects {
+    margin: 1em 0;
+  }
+  
+  .active {
+    background-color: #333333;
+    color: whitesmoke;
+  }
+  
