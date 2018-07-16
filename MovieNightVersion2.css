@@ -51,7 +51,7 @@ body {
 
   .projects-button:hover { 
     background-color: rgb(13, 25, 99);
-    color: whitesmoke
+    color: whitesmoke;
   }
   
   ul {
