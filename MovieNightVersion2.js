@@ -1,6 +1,6 @@
 function main() {
     $('.intro').hide();
-    $('.intro').fadeIn(900);
+    $('.intro').fadeIn(9000);
     $('.skillset').hide();
     $('.skillset').fadeIn(2000);
     
