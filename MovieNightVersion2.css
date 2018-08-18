@@ -47,12 +47,12 @@ body {
     opacity: 0.9;
     width: 10em;
     color: black;
-    transition: background 2s;
   }
 
   .projects-button:hover { 
     background-color: rgb(13, 25, 99);
     color: whitesmoke;
+    transition: background 3s;
   }
   
   ul {
