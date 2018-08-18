@@ -47,6 +47,7 @@ body {
     opacity: 0.9;
     width: 10em;
     color: black;
+    transition: background 2s;
   }
 
   .projects-button:hover { 
